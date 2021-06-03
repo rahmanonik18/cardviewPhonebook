@@ -7,7 +7,7 @@ import com.tahmidrasif.phonebook.R;
 public class MyData {
 
    public static String[]nameArray = {"Rasif Tahmid Islam", "Tahmid Rasif", "Islam Rasif",};
-   public static String[] versionArray = {"017", "017", "01"};
+   public static String[] versionArray = {"01730034567", "017", "01"};
 
      public static Integer[] drawableArray = {R.drawable.rasif, R.drawable.rasif, R.drawable.rasif};
 
